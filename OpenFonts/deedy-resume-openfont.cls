@@ -12,6 +12,7 @@
 \usepackage[hmargin=1.25cm, vmargin=0.75cm]{geometry}
 \usepackage[hidelinks]{hyperref}
 \usepackage{fontawesome}
+\usepackage{calligra}
 
 % Publications
 \usepackage{cite}
