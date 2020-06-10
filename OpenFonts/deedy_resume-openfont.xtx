@@ -77,18 +77,18 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.3\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links}
-\begin{tabular}[margin=0em]{ l r }
+\begin{tabular}{@{\hspace{0em}}l r}
 \href{mailto:jonathan.loewen@outlook.com}{jonathan.loewen@outlook.com} & \faEnvelope \\
 \href{(778) 580-7784}{(778) 580-7784} & \faPhone \\
 \href{https:/www.linkedin.com/in/loewenjonathan}{linkedin.com/in/loewenjonathan} & \faLinkedin \\
-\href{https://github.com/jobiniah}{\bf github.com/jobiniah} & \faGithub \\
+\href{https://github.com/jobiniah}{github.com/jobiniah} & \faGithub \\
 \end{tabular}
 
  
@@ -107,7 +107,7 @@ AutoCad \textbullet{} Solidworks \textbullet{} Python \textbullet{} MS Office \t
 Arduino \textbullet{} 3D printers \textbullet{} Lathe \textbullet{} Welding \textbullet{} Oscilloscope \textbullet{} Prototyping
 
 \subsection{General}
-Class 5 BC Drivers License \textbullet{} Leadership \\ \textbullet{} Interpersonal Skills \textbullet{} Detail Oriented \\ \textbullet{} Time Management
+Class 5 BC Drivers License \textbullet{} Leadership \textbullet{} Interpersonal Skills \textbullet{} Detail Oriented \textbullet{} Time Management
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -152,7 +152,11 @@ Technical Writing \\
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{.05\textwidth}
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.65\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
