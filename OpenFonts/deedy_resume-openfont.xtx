@@ -101,7 +101,7 @@
 \section{Skills}
 
 \subsection{Software}
-AutoCad \textbullet{} Solidworks \textbullet{} Python \textbullet{} MS Office \textbullet{} Matlab/Simulink \textbullet{} R \textbullet{} Linux
+AutoCad \textbullet{} Solidworks \textbullet{} Python \textbullet{} MS Office \textbullet{} Matlab \textbullet{} C/C++ \textbullet{} Linux
 
 \subsection{Hardware}
 Arduino \textbullet{} 3D printers \textbullet{} Lathe \textbullet{} Welding \textbullet{} Oscilloscope \textbullet{} Prototyping
@@ -165,13 +165,14 @@ Technical Writing \\
 \section{Work Experience}
 \runsubsection{Lantic Inc.}
 \descript{| Mechanical Engineering Coop Student }
-g\location{01/2020 – 12/2020 | Vancouver, BC}
+\location{01/2020 – 12/2020 | Vancouver, BC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Managed and planned contractor work on site. 
-\item Produced AutoCAD sketches for project proposals, and quotes.
-\item Learned about various piping, and other design standards.
+\item Produced AutoCAD sketches for project proposals and quotes.
+\item Learned about and used various piping and other design standards.
 \item Wrote corporate documents.
+\item Adapted to a strict union environment.
 \end{tightemize}
 \sectionsep
 
@@ -192,7 +193,7 @@ g\location{01/2020 – 12/2020 | Vancouver, BC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Co-ordinated with power engineers to utilize and maintain heavy machinery (pumps).
-\item Calmed customers in tight situations like product shortages, and tight ferry schedules.
+\item Calmed customers in tight situations like product shortages and tight ferry schedules.
 \item Demonstrated excellent communication skills when training four employees in a short amount of time.
 \end{tightemize}
 \sectionsep
@@ -208,7 +209,7 @@ g\location{01/2020 – 12/2020 | Vancouver, BC}
 \location{01/2019 – 12/2019 | UBC Okanagan}
 \begin{tightemize}
 \item Manage 3 sub teams with 8+ students combined.
-\item Interface between executives and sub teams to show progress, set goals, and explain needs.
+\item Interfaced between executives and sub teams to show progress, set goals, and explain needs.
 \end{tightemize}
 \sectionsep
 
@@ -216,7 +217,7 @@ g\location{01/2020 – 12/2020 | Vancouver, BC}
 \descript{| Sustainability Class Project}
 \location{01/2019 – 04/2019 | UBC Okanagan}
 \begin{tightemize}
-\item Lead group of 6 students in designing, and prototyping a data collecting shower timer
+\item Lead a group of 6 students in designing and prototyping a data collecting shower timer.
 \end{tightemize}
 \sectionsep
 
@@ -224,7 +225,7 @@ g\location{01/2020 – 12/2020 | Vancouver, BC}
 \descript{| Mechanics Class Project}
 \location{01/2018 – 03/2018 | KPU}
 \begin{tightemize}
-\item Designed, tested, and manufactured a popsicle bridge using joint analysis in Maple
+\item Designed, tested, and manufactured a popsicle bridge using joint analysis in Maple.
 \item Modelled using 2D and 3D CAD software for truss testing.
 \end{tightemize}
 \sectionsep
@@ -234,8 +235,8 @@ g\location{01/2020 – 12/2020 | Vancouver, BC}
 \location{01/2018 – 03/2018 | KPU}
 \begin{tightemize}
 \item Lead development of software for an adaptive line following robot.
-\item Learned how to use git for version control
-\item Demonstrated ability to prepare for, and adapt to, unknown circumstances 
+\item Learned how to use git for version control.
+\item Demonstrated ability to prepare for, and adapt to, unknown circumstances.
 \end{tightemize}
 \sectionsep
 
