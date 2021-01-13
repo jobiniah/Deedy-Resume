@@ -105,7 +105,7 @@ AutoCAD \textbullet{} SolidWorks \textbullet{} Python \textbullet{} MS Office \t
 \sectionsep
 
 \subsection{Hardware}
-Arduino \textbullet{} 3D printers \textbullet{} Lathe \textbullet{} Welding \textbullet{} Oscilloscope \textbullet{} Prototyping \textbullet{} Utrasonic Thickness Meter \textbullet{} Flow Meter
+Arduino \textbullet{} 3D printers \textbullet{} Lathe \textbullet{} Welding \textbullet{} Oscilloscope \textbullet{} Prototyping \textbullet{} Ultrasonic Thickness Meter \textbullet{} Flow Meter
 \sectionsep
 
 \subsection{General}
@@ -180,7 +180,7 @@ Learning new software \\
 \location{01/2020 – 12/2020 | Vancouver, BC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Managed and planned contractor work on site for 2 independant projects. 
+\item Managed and planned contractor work on site for 2 independent projects. 
 \item Produced AutoCAD sketches for project proposals and quotes.
 \item Learned about and used various piping and other design standards.
 \item Wrote documents requesting funds, completed projects, and technical reports.
@@ -219,7 +219,7 @@ Learning new software \\
 \descript{| UBCO Aerospace Club}
 \location{01/2019 – 12/2019 | UBC Okanagan}
 \begin{tightemize}
-\item Manage 3 subteams with 8+ students combined.
+\item Managed 3 subteams with 8+ students combined.
 \item Interfaced between executives and subteams to show progress, set goals, and explain needs.
 \end{tightemize}
 \sectionsep
@@ -237,7 +237,7 @@ Learning new software \\
 \descript{| Microcontrollers Class Project}
 \location{01/2018 – 03/2018 | KPU}
 \begin{tightemize}
-\item Lead development of software for an adaptive line following robot.
+\item Led development of software for an adaptive line following robot.
 \item Learned how to use git for version control.
 \item Demonstrated ability to prepare for, and adapt to, unforseen circumstances.
 \end{tightemize}
