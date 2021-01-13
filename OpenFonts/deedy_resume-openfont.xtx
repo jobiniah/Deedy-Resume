@@ -101,13 +101,16 @@
 \section{Skills}
 
 \subsection{Software}
-AutoCad \textbullet{} Solidworks \textbullet{} Python \textbullet{} MS Office \textbullet{} Matlab \textbullet{} C/C++ \textbullet{} Linux
+AutoCAD \textbullet{} SolidWorks \textbullet{} Python \textbullet{} MS Office \textbullet{} Matlab \textbullet{} C/C++ \textbullet{} Linux
+\sectionsep
 
 \subsection{Hardware}
-Arduino \textbullet{} 3D printers \textbullet{} Lathe \textbullet{} Welding \textbullet{} Oscilloscope \textbullet{} Prototyping
+Arduino \textbullet{} 3D printers \textbullet{} Lathe \textbullet{} Welding \textbullet{} Oscilloscope \textbullet{} Prototyping \textbullet{} Utrasonic Thickness Meter \textbullet{} Flow Meter
+\sectionsep
 
 \subsection{General}
 Class 5 BC Drivers License \textbullet{} Leadership \textbullet{} Interpersonal Skills \textbullet{} Detail Oriented \textbullet{} Time Management
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -118,7 +121,6 @@ Class 5 BC Drivers License \textbullet{} Leadership \textbullet{} Interpersonal 
 \subsection{UBC Okanagan}
 \descript{BASc. Mechanical Engineering}
 \location{09/2018 – Present | Kelowna, BC}
-\location{ GPA: 74\% }
 \sectionsep
 
 \subsection{KPU}
@@ -143,6 +145,16 @@ Materials Science 2 \\
 Project Management \\
 Technical Writing \\
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     HOBBIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Hobbies}
+Computational Fluid Dynamics \\
+Machine Learning \\
+Music \\
+Learning new software \\
+3D printing \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -168,11 +180,11 @@ Technical Writing \\
 \location{01/2020 – 12/2020 | Vancouver, BC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Managed and planned contractor work on site. 
+\item Managed and planned contractor work on site for 2 independant projects. 
 \item Produced AutoCAD sketches for project proposals and quotes.
 \item Learned about and used various piping and other design standards.
-\item Wrote corporate documents.
-\item Adapted to a strict union environment.
+\item Wrote documents requesting funds, completed projects, and technical reports.
+\item Completed pump sizing calculations which I used to get a supplier's quote.
 \end{tightemize}
 \sectionsep
 
@@ -181,9 +193,9 @@ Technical Writing \\
 \location{09/2019 – 12/2019 | Kelowna, BC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Learned advanced CFD topics for analyzing fluid flow in small (capillary) tubes 
-\item Analyzed simulation and looked for anomalies to present in a weekly meeting
-\item Automated workflow in python to more efficiently use time
+\item Learned advanced CFD topics for analyzing fluid flow in small (capillary) tubes.
+\item Analyzed simulation and looked for anomalies to present in a weekly meeting.
+\item Automated workflow in python to more efficiently use time.
 \end{tightemize}
 \sectionsep
 
@@ -193,7 +205,6 @@ Technical Writing \\
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Co-ordinated with power engineers to utilize and maintain heavy machinery (pumps).
-\item Calmed customers in tight situations like product shortages and tight ferry schedules.
 \item Demonstrated excellent communication skills when training four employees in a short amount of time.
 \end{tightemize}
 \sectionsep
@@ -208,16 +219,8 @@ Technical Writing \\
 \descript{| UBCO Aerospace Club}
 \location{01/2019 – 12/2019 | UBC Okanagan}
 \begin{tightemize}
-\item Manage 3 sub teams with 8+ students combined.
-\item Interfaced between executives and sub teams to show progress, set goals, and explain needs.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Data Collecting Shower Timer}
-\descript{| Sustainability Class Project}
-\location{01/2019 – 04/2019 | UBC Okanagan}
-\begin{tightemize}
-\item Lead a group of 6 students in designing and prototyping a data collecting shower timer.
+\item Manage 3 subteams with 8+ students combined.
+\item Interfaced between executives and subteams to show progress, set goals, and explain needs.
 \end{tightemize}
 \sectionsep
 
@@ -236,7 +239,23 @@ Technical Writing \\
 \begin{tightemize}
 \item Lead development of software for an adaptive line following robot.
 \item Learned how to use git for version control.
-\item Demonstrated ability to prepare for, and adapt to, unknown circumstances.
+\item Demonstrated ability to prepare for, and adapt to, unforseen circumstances.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     VOLUNTEER EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Volunteer Experience}
+\runsubsection{Aldergrove Alliance Church}
+\descript{| Head of Visual Media }
+\location{09/2013 – 12/2020 | Langley, BC}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Scheduled and trained volunteers on presentation software.
+\item Evaluated potential new software.
+\item Assisted with the technology shift and upgrade required for Covid-19.
 \end{tightemize}
 \sectionsep
 
